@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>preference</key>
+	<array>
+		<dict>
+			<key>isHeaderNeeded</key>
+			<false/>
+			<key>isHeaderExpandable</key>
+			<false/>
+			<key>headerTitle</key>
+			<string></string>
+			<key>cells</key>
+			<array>
+				<dict>
+					<key>style</key>
+					<integer>0</integer>
+					<key>title</key>
+					<string>Profile</string>
+					<key>segueId</key>
+					<string>ProfileDetailsViewController</string>
+				</dict>
+				<dict>
+					<key>style</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>Personalize Information Source</string>
+					<key>segueId</key>
+					<string>PersonalizationViewController</string>
+				</dict>
+				<dict>
+					<key>style</key>
+					<integer>0</integer>
+					<key>title</key>
+					<string>Edit My Bridge Line</string>
+					<key>segueId</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>style</key>
+					<integer>0</integer>
+					<key>title</key>
+					<string>IT Help Desk</string>
+					<key>segueId</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>style</key>
+					<integer>0</integer>
+					<key>title</key>
+					<string>Locations and Dial-ins</string>
+					<key>segueId</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>style</key>
+					<integer>0</integer>
+					<key>title</key>
+					<string>Recommend ENGAGE</string>
+					<key>segueId</key>
+					<string>custom</string>
+				</dict>
+				<dict>
+					<key>style</key>
+					<integer>0</integer>
+					<key>title</key>
+					<string>Notifications</string>
+					<key>segueId</key>
+					<string>NotificationsViewController</string>
+				</dict>
+				<dict>
+					<key>style</key>
+					<integer>0</integer>
+					<key>title</key>
+					<string>Feedback</string>
+					<key>segueId</key>
+					<string>FeedbackViewController</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>isHeaderNeeded</key>
+			<true/>
+			<key>isHeaderExpandable</key>
+			<true/>
+			<key>headerTitle</key>
+			<string>About ENGAGE</string>
+			<key>cells</key>
+			<array>
+				<dict>
+					<key>style</key>
+					<integer>0</integer>
+					<key>title</key>
+					<string>Engage with people and content across the Dell universe.</string>
+					<key>url</key>
+					<string></string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>Recommend</key>
+	<dict>
+		<key>subject</key>
+		<string>Check out ENGAGE!</string>
+		<key>body</key>
+		<string>Hello\
+                                &lt;br&gt;\
+                                &lt;br&gt;\
+                                I wanted to recommend  ENGAGE mobile app!&lt;br&gt;&lt;br&gt;ENGAGE enables you to access Dell documents, acronyms, initiatives, and even team members across a wide variety of sources including Inside Dell, Dell.com, the Dell EMC Community Network, YouTube and our Knowledgebase.\
+                                &lt;br&gt;\
+                                &lt;br&gt;\
+                                To get ENGAGE, enroll with AirWatch and download the app from the Dell App Store.\
+                                &lt;br&gt;\
+                                &lt;br&gt;\
+                                    For further instructions to enroll with  AirWatch:\
+                                &lt;br&gt;\
+                                    Legacy Dell: (&lt;a href =\&quot;http://intranet.dell.com/mobile/Pages/default.aspx\&quot;&gt;http://intranet.dell.com/mobile/Pages/default.aspx&lt;/a&gt;)\
+                                &lt;br&gt;\
+                                    Legacy EMC: (&lt;a href =\&quot;https://inside.dell.com/community/active/itatemc/emc_mobility_and_apps\&quot;&gt;http://intranet.dell.com/mobile/Pages/default.aspx&lt;/a&gt;)\
+                                &lt;br&gt;&quot;</string>
+		<key>url</key>
+		<string>http://www.emc.com/legal/emc-corporation-privacy-statement.htm</string>
+	</dict>
+</dict>
+</plist>
